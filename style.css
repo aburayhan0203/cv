@@ -1,0 +1,118 @@
+*{
+    margin:0px;
+    padding: 0px;
+}
+body{
+    background-color: #eee;
+}
+
+.main{
+    background-color: rgba(0, 255, 255, 0.849);
+    max-width: 1080px;
+    margin: 0 auto;
+    padding: 20px;
+}
+ header{
+
+ }
+
+ .profile-image{
+    width: 100px;
+    height: 120px;
+    border: 3px solid white; 
+    border-radius: 50%;
+    float: left;
+    display: inline-block;
+ }
+ .header-bio{
+     
+     padding: 30px;
+     display: inline-block
+ }
+ h1, h2, h3, h4, h5, h6{
+     color: ;
+ }
+ .header-contact{
+     margin-left: 400px;
+     padding: 30px;
+     display: inline-block;
+ }
+ .header-contact a{
+      text-decoration: none;
+      color: rgb(71, 66, 67); 
+      font-weight: bold;
+ }
+ .header-contact a:hover{
+     background-color: rgb(212, 211, 211);
+     text-decoration: underline;
+     cursor: pointer;
+ }
+}
+
+
+ #personal-section{
+ padding: 10px;
+ margin-top: 5px;
+ }
+ .content{
+
+
+ }
+
+ .div-left{
+  width: 30%;
+  float: left;
+ }
+ .div-right{
+  width:70%;
+ float: left;
+ 
+}
+.div-right p{
+    font-size: 17px;
+}
+
+.education-1{
+    float: left;
+    width: 25%;
+}
+.education-2{
+    float: left;
+    width: 25%;
+}
+.education-3{
+    float: right;
+    width: 20%;
+}
+
+.footeer{
+background-color: black;
+text-align: center;
+padding-top: 20px;
+padding-bottom: 10px;
+
+}
+.footeer a{
+    color: white;
+    text-decoration: none;
+    margin: 10px;
+    font-size: 20px;
+}
+.footeer p{
+    color: white;
+    margin-top: 10px;
+}
+ .education-3
+ {
+     float: left;
+     width: 45%;
+ }
+ .education-3 p{
+     font-size: 20px;
+ }
+
+ .education-4 ul{
+      list-style-type: none;
+      font-size: 20px;
+
+ }
